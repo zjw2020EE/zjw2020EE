@@ -42,6 +42,10 @@ I am currently focusing on the intersection of **Wireless Communication** and **
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
+<br/>  
+  <img src="https://img.shields.io/badge/Sionna-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CARLA_Simulator-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+
 </div>
 
 ---
