@@ -53,9 +53,9 @@ I am currently focusing on the intersection of **Wireless Communication** and **
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zjw2020EE&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=79ffce&icon_color=bb9af7" height="180" />
+  <img src="https://raw.githubusercontent.com/zjw2020EE/zjw2020EE/main/profile-summary-card-output/radical/0-profile-details.svg" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjw2020EE&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=79ffce" height="180" />
+  <img src="https://raw.githubusercontent.com/zjw2020EE/zjw2020EE/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" />
 </div>
 
 <div align="center">
