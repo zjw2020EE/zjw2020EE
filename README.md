@@ -63,6 +63,10 @@ I am currently focusing on the intersection of **Wireless Communication** and **
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjw2020EE&theme=radical&hide_border=true&background=1a1b27&ring=bb9af7&currStreakLabel=79ffce" />
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://github.com/zjw2020EE/zjw2020EE/raw/output/snake.svg" width="100%" />
+</div>
 ---
 
 <div align="center">
